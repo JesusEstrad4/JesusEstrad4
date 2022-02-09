@@ -6,9 +6,20 @@
 Here are some ideas to get you started:
 
 -->
-🔭 Soy estudiante del instituto tecnologico de tijuana, estudio la carrera de ingenieria en sistemas
- 🤔 Me gusta ver articulos tecnologicos
- 😄 En mis timpos libres miro youtube
+ -🔭 Soy estudiante del instituto tecnologico de tijuana, estudio la carrera de ingenieria en sistemas
+ -🤔 Me gusta ver articulos tecnologicos
+ -😄 En mis timpos libres miro youtube
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 |       | Lunes                                        | Martes                                       | Miércoles                                    | Jueves                                       | viernes                                      |
 |-------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
