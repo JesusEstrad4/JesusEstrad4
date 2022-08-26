@@ -1,3 +1,5 @@
+
+
 ### Hola amigo 👋
 
  -🔭 Soy estudiante del instituto tecnologico de tijuana, estudio la carrera de ingenieria en sistemas
@@ -15,19 +17,19 @@
  
  
  
- 
- 
-|       | Lunes                                        | Martes                                       | Miércoles                                    | Jueves                                       | viernes                                      |
-|-------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
-| 07:00 |                                              |                                              |                                              |                                              |                                              |
-| 08:00 |                                              |                                              |                                              |                                              |                                              |
-| 09:00 |                                              |                                              |                                              |                                              |                                              |
-| 10:00 |                                              |                                              |                                              |                                              |                                              |
-| 11:00 |                                              |                                              |                                              |                                              |                                              |
-| 12:00 |                                              |                                              |                                              |                                              |                                              |
-| 13:00 | Ing. de software                             | Ing. de software                             | Ing. de spftware                             | Ing. de software                             | Ing. de software                             |
-| 14:00 | Leng. de interfaz                            | Leng. de interfaz                            | Leng. de interfaz                            | Leng. de interfaz                            |                                              |
-| 15:00 |                                              |                                              |                                              |                                              |                                              |
-| 16:00 | Conmutación y enrutamiento de redes de datos | Conmutación y enrutamiento de redes de datos | Conmutación y enrutamiento de redes de datos | Conmutación y enrutamiento de redes de datos | Conmutación y enrutamiento de redes de datos |
-| 17:00 | Taller de sistemas operativos                | Taller de sistemas operativos                | Taller de sistemas operativos                | Taller de sistemas  operativos               |                                              |
-| 18:00 | Administracion de base de datos              | Administracion de base de datos              | Administracionde base  de datos              | Administracion de base  de datos             | Administracion de base de datos              |
+
+
+|       | Lunes                     | Martes                    | Miercoles                 | Jueves                    | Viernes                   |
+|-------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| 07:00 |                           |                           |                           |                           |                           |
+| 08:00 |                           |                           |                           |                           |                           |
+| 09:00 |                           |                           |                           |                           |                           |
+| 10:00 |                           |                           |                           |                           |                           |
+| 11:00 |                           |                           |                           |                           |                           |
+| 12:00 | Simulacion                | Simulacion                | Simulacion                | Simulacion                | Simulacion                |
+| 13:00 | Metodos númericos         | Metodos númericos         | Metodos númericos         | Metodos númericos         | Metodos númericos         |
+| 14:00 | Taller de SO.             | Taller de SO.             | Taller de SO.             | Taller de SO.             | Taller de SO.             |
+| 15:00 | Lenguajes y Automatas 1   | Lenguajes y Automatas 1   | Lenguajes y Automatas 1   | Lenguajes y Automatas 1   | Lenguajes y Automatas     |
+| 16:00 | Taller de Investigacion 1 | Taller de Investigacion 1 | Taller de Investigacion 1 | Taller de Investigacion 1 | Taller de Investigacion 1 |
+| 17:00 | Sistemas programables     | Sistemas programables     | Sistemas programables     | Sistemas programables     | Sistemas programables     |
+| 18:00 |                           |                           |                           |                           |                           |
